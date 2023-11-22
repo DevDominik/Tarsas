@@ -1,0 +1,17 @@
+C:\Users\kecskes.dominik\source\repos\lud\lud\bin\Debug\net6.0\lud.exe
+C:\Users\kecskes.dominik\source\repos\lud\lud\bin\Debug\net6.0\Datas\dobasok.txt
+C:\Users\kecskes.dominik\source\repos\lud\lud\bin\Debug\net6.0\Datas\osvenyek.txt
+C:\Users\kecskes.dominik\source\repos\lud\lud\bin\Debug\net6.0\lud.deps.json
+C:\Users\kecskes.dominik\source\repos\lud\lud\bin\Debug\net6.0\lud.runtimeconfig.json
+C:\Users\kecskes.dominik\source\repos\lud\lud\bin\Debug\net6.0\lud.dll
+C:\Users\kecskes.dominik\source\repos\lud\lud\bin\Debug\net6.0\lud.pdb
+C:\Users\kecskes.dominik\source\repos\lud\lud\obj\Debug\net6.0\lud.csproj.AssemblyReference.cache
+C:\Users\kecskes.dominik\source\repos\lud\lud\obj\Debug\net6.0\lud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kecskes.dominik\source\repos\lud\lud\obj\Debug\net6.0\lud.AssemblyInfoInputs.cache
+C:\Users\kecskes.dominik\source\repos\lud\lud\obj\Debug\net6.0\lud.AssemblyInfo.cs
+C:\Users\kecskes.dominik\source\repos\lud\lud\obj\Debug\net6.0\lud.csproj.CoreCompileInputs.cache
+C:\Users\kecskes.dominik\source\repos\lud\lud\obj\Debug\net6.0\lud.dll
+C:\Users\kecskes.dominik\source\repos\lud\lud\obj\Debug\net6.0\refint\lud.dll
+C:\Users\kecskes.dominik\source\repos\lud\lud\obj\Debug\net6.0\lud.pdb
+C:\Users\kecskes.dominik\source\repos\lud\lud\obj\Debug\net6.0\lud.genruntimeconfig.cache
+C:\Users\kecskes.dominik\source\repos\lud\lud\obj\Debug\net6.0\ref\lud.dll
